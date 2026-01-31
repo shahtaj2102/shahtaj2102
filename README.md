@@ -4,7 +4,7 @@
 ![AWS Professional](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-orange)  
 ![Python](https://img.shields.io/badge/Python-Automation%20%26%20DevOps-green)
 
-Cloud engineer transitioning to AWS architecture roles. Recently completed AWS Solutions Architect Professional cert—pursuing Security Specialty next. Building IaC projects with Terraform/CDK + Python automation.
+Recently completed AWS Solutions Architect Professional cert—pursuing Security Specialty next. Building IaC projects with Terraform/CDK + Python automation.
 
 **Open to opportunities in Toronto**
 
