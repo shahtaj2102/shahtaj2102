@@ -27,4 +27,4 @@ Network Security - Playwright testing - Windows dev environment
 
 ![shahtaj2102's github stats](https://github-readme-stats.vercel.app/api?username=shahtaj2102&show_icons=true&theme=radical&hide_border=true)
 
-📍 Toronto, ON • [LinkedIn](https://linkedin.com/in/shahtaj) • [shahtaj2102@gmail.com](mailto:shahtaj2102@gmail.com)
+📍 Toronto, ON • [LinkedIn](https://linkedin.com/in/shahtaj) • [shahtajgill@gmail.com](mailto:shahtajgill@gmail.com)
