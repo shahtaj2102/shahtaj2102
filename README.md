@@ -14,7 +14,6 @@ Recently completed AWS Solutions Architect Professional cert—pursuing Security
 - Network monitoring with Wireshark + cloud-native stacks
 
 ## Featured Work
-[![Tip Calculator](https://github-readme-stats.vercel.app/api/pin/?username=shahtaj2102&repo=python-beginner-projects&theme=radical)](https://github.com/shahtaj2102/python-beginner-projects)
 
 - [Tip Calculator](https://github.com/shahtaj2102/python-beginner-projects) - Python CLI for bill splitting (error handling, user input)
 - Caesar cipher, automation scripts coming next
@@ -24,7 +23,5 @@ Recently completed AWS Solutions Architect Professional cert—pursuing Security
 AWS (VPC, EC2, Lambda, RDS) - Terraform - Python/Flask - GitHub Actions
 Network Security - Playwright testing - Windows dev environment
 ```
-
-![shahtaj2102's github stats](https://github-readme-stats.vercel.app/api?username=shahtaj2102&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600)
 
 📍 Toronto, ON • [LinkedIn](https://www.linkedin.com/in/shahtaj-aws-sap-toronto) • [shahtajgill@gmail.com](mailto:shahtajgill@gmail.com)
