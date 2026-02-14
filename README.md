@@ -25,8 +25,6 @@ Recently completed AWS Solutions Architect Professional cert—pursuing Security
 
 **[Full repo →](https://github.com/shahtaj2102/python-beginner-projects)**
 
-![Python Progress](https://github-readme-stats.vercel.app/api/pin/?username=shahtaj2102&repo=python-beginner-projects&theme=radical)
-
 
 ## Tools & Tech
 ```
