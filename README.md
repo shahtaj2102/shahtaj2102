@@ -13,10 +13,20 @@ Recently completed AWS Solutions Architect Professional cert—pursuing Security
 - Python for DevOps automation (CLI tools, testing)
 - Network monitoring with Wireshark + cloud-native stacks
 
-## Featured Work
+## 🔥 Featured Work
 
-- [Tip Calculator](https://github.com/shahtaj2102/python-beginner-projects) - Python CLI for bill splitting (error handling, user input)
-- Caesar cipher, automation scripts coming next
+| Project | Description | Skills Demo'd |
+|---------|-------------|---------------|
+| [Tip Calculator](https://github.com/shahtaj2102/python-beginner-projects/blob/main/tip_calculator.py) | CLI bill splitter w/ custom tip % | Input validation, float math, rounding |
+| [Rollercoaster Tickets](https://github.com/shahtaj2102/python-beginner-projects/blob/main/rollercoaster_ticket.py) | Height/age-based pricing logic | Nested if/elif, type conversion |
+| [Password Generator](https://github.com/shahtaj2102/python-beginner-projects/blob/main/Password_generator.py) | Secure random password CLI | Lists, random.sample/shuffle, string join |
+| [Caesar Cipher](https://github.com/shahtaj2102/python-beginner-projects/blob/main/caesar_cipher.py) | Text encryption/decryption tool | Loops, ord/chr, modular arithmetic |
+| [Treasure Island](https://github.com/shahtaj2102/python-beginner-projects/blob/main/treasure_island.py) | Interactive story adventure | Multiline strings, deep conditionals |
+
+**[Full repo →](https://github.com/shahtaj2102/python-beginner-projects)**
+
+![Python Progress](https://github-readme-stats.vercel.app/api/pin/?username=shahtaj2102&repo=python-beginner-projects&theme=radical)
+
 
 ## Tools & Tech
 ```
