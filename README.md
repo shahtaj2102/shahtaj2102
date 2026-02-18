@@ -14,7 +14,7 @@ Recently completed AWS Solutions Architect Professional cert—pursuing Security
 - Network monitoring with Wireshark + cloud-native stacks
 
 ## 🔥 Featured Work
-
+### 1.
 | Project | Description | Skills Demo'd |
 |---------|-------------|---------------|
 | [Tip Calculator](https://github.com/shahtaj2102/python-beginner-projects/blob/main/tip_calculator.py) | CLI bill splitter w/ custom tip % | Input validation, float math, rounding |
@@ -25,6 +25,8 @@ Recently completed AWS Solutions Architect Professional cert—pursuing Security
 
 **[Full repo →](https://github.com/shahtaj2102/python-beginner-projects)**
 
+### 2.
+TERRAFORM 3-tier AWS Architecture
 
 ## Tools & Tech
 ```
