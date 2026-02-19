@@ -27,12 +27,14 @@ Recently completed AWS Solutions Architect Professional cert—pursuing Security
 
 ### 2.
 TERRAFORM 3-tier AWS Architecture
+
 This project deploys a scalable 3-tier web application architecture on AWS using Terraform Infrastructure as Code (IaC). It features a Web Tier , App Tier within a secure VPC—perfect for production workloads.
 
-Architecture Overview
-VPC: Multi-AZ public/private subnets, NAT Gateway, IGW.
+**Architecture Overview**
 
-Web Tier: ALB (public), Auto Scaling Group (EC2 t3.micro, nginx/PHP).
+- VPC: Multi-AZ public/private subnets, NAT Gateway, IGW.
+
+- Web Tier: ALB (public), Auto Scaling Group (EC2 t3.micro, nginx/PHP).
 
 App Tier: Private EC2 (app server), Security Groups isolation.
 
