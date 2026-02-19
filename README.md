@@ -40,6 +40,8 @@ This project deploys a scalable 3-tier web application architecture on AWS using
 
 - Security: least-privilege SGs, IAM roles
 
+**[Full repo →](https://github.com/shahtaj2102/python-beginner-projects)**
+
 ## Tools & Tech
 ```
 AWS (VPC, EC2, Lambda, RDS) - Terraform - Python/Flask - GitHub Actions
