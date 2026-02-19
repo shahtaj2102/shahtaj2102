@@ -40,6 +40,7 @@ This project deploys a scalable 3-tier web application architecture on AWS using
 
 - Security: least-privilege SGs, IAM roles
 
+
 **[Full repo →](https://github.com/shahtaj2102/AWS-Terraform-Project)**
 
 ## Tools & Tech
