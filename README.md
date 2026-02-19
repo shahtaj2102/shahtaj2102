@@ -36,11 +36,9 @@ This project deploys a scalable 3-tier web application architecture on AWS using
 
 - Web Tier: ALB (public), Auto Scaling Group (EC2 t3.micro, nginx/PHP).
 
-App Tier: Private EC2 (app server), Security Groups isolation.
+- App Tier: Private EC2 (app server), Security Groups isolation.
 
-Data Tier: RDS MySQL (multi-AZ), encrypted, backed up.
-
-Security: Bastion host, least-privilege SGs, IAM roles
+- Security: least-privilege SGs, IAM roles
 
 ## Tools & Tech
 ```
