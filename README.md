@@ -38,7 +38,7 @@ This project deploys a scalable 3-tier web application architecture on AWS using
 
 - App Tier: Private EC2 (app server), Security Groups isolation.
 
-- Security: least-privilege SGs, IAM roles
+- Security: least-privilege SGs, IAM roles.
 
 
 **[Full repo →](https://github.com/shahtaj2102/AWS-Terraform-Project)**
