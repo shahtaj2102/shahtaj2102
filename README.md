@@ -11,7 +11,7 @@ Recently completed AWS Solutions Architect Professional cert—pursuing Security
 ## Current Focus
 - Shared Services VPCs • Transit Gateway • Centralized VPC Endpoints (S3, SSM)
 - Python for DevOps automation (CLI tools, testing)
-- Network monitoring with Wireshark + cloud-native stacks
+- Network monitoring with Wireshark + cloud-native stacks.
 
 ## 🔥 Featured Work
 ### 1.
