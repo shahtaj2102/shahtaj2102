@@ -8,7 +8,7 @@ Recently completed AWS Solutions Architect Professional cert—pursuing Security
 
 **Open to opportunities in Toronto**
 
-## Current Focus
+## Current Focus.
 - Shared Services VPCs • Transit Gateway • Centralized VPC Endpoints (S3, SSM)
 - Python for DevOps automation (CLI tools, testing)
 - Network monitoring with Wireshark + cloud-native stacks.
