@@ -34,7 +34,7 @@ Open to Cloud Support, Junior Cloud Engineer, and Junior DevOps opportunities in
 | **[AWS-Terraform-Project](https://github.com/shahtaj2102/AWS-Terraform-Project)** | Multi-AZ VPC networking foundation built with Terraform — public/private subnets across 3 AZs, Internet Gateway, NAT Gateway, and route tables. Infrastructure as code, not a template. |
 | **[Nexus_Repository_Manager](https://github.com/shahtaj2102/Nexus_Repository_Manager)** | Hands-on lab: installed and configured Nexus Repository Manager on a DigitalOcean droplet, published Java artifacts via Gradle and Maven, and queried the Nexus REST API. |
 | **[web-app-on-digitalocean](https://github.com/shahtaj2102/web-app-on-digitalocean)** | Hands-on lab: provisioned a DigitalOcean droplet from scratch, configured SSH access and firewall rules, and deployed a Java application. |
-| **[python-beginner-projects](https://github.com/shahtaj2102/python-beginner-projects)** | Foundational Python scripts — CLI tools and basic automation — building programming fundamentals to support scripting and automation work. |
+| **[python-scripting-practice](https://github.com/shahtaj2102/python-scripting-practice)** | Foundational Python scripts — CLI tools and basic automation — building programming fundamentals to support scripting and automation work. |
 
 *A larger project is in progress: a web application for a real 3D-printing/CAD service business, containerized with Docker and deployed via a Jenkins CI/CD pipeline, with a companion repo demonstrating Kubernetes orchestration and AWS infrastructure-as-code. Link coming soon.*
 
